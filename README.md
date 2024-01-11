@@ -1,1 +1,1 @@
-#### Elevador: aplicação de simulação com diversas funcionalidades. Desenvolvido em Java Spring
+#### Elevador: aplicação de simulação com diversas funcionalidades. 
